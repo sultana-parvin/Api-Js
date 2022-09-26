@@ -1,0 +1,38 @@
+body{
+    background-image: url("weather.png");
+ 
+
+}
+
+
+.container{
+    margin: 150px auto;
+    text-align: center;
+}
+
+#input-city{
+    width: 300px;
+    padding: 15px;
+    border-radius: 5px rgb(74, 74, 74);
+    font-size: 15px;
+    
+}
+
+#submit-btn{
+    width: 80px;
+    padding: 7px;
+    background-color: rgb(32, 160, 32);
+    color: rgb(229, 226, 226);
+    
+}
+h3{
+    font-size: 40px;
+    color: rgb(35, 35, 34);
+
+}
+.temp-deg{
+    font-size: 30px;
+}
+h4{
+    font-size: 20px;
+}
